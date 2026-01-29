@@ -1,5 +1,6 @@
 ## Welcome to AmeoInoru's Profile! 👋 
 ### 欢迎来到十月祈雨的主页🎉
+![AmeoInoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmeoInoru)
 <!--
 <div align="center"> <img src="https://github.com/OctoberPrayRain/OctoberPrayRain/blob/output/github-contribution-grid-snake-dark.svg"> </div>
 -->
