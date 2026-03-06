@@ -1,5 +1,10 @@
 ## Welcome to AmeoInoru's Profile!👋 
 ### 欢迎来到十月祈雨的主页🎉
+
+<p align="center">
+<img src="https://count.getloli.com/@:OctoberPrayRain?theme=booru-jaypee" alt=":OctoberPrayRain" />
+</p>
+  
 <p align="center">
   <img src="https://github-readme-stats-prayrain.vercel.app/api?username=OctoberPrayRain&show_icons=true&border_radius=12&height=165&cache_seconds=1800" />
   &nbsp;&nbsp;&nbsp;
