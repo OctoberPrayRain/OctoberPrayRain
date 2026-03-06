@@ -6,7 +6,7 @@
 </p>
   
 <p align="center">
-  <img src="https://github-readme-stats-prayrain.vercel.app/api?username=OctoberPrayRain&show_icons=true&border_radius=12&height=165&cache_seconds=1800" />
+  <img src="https://github-readme-stats-prayrain.vercel.app/api?username=OctoberPrayRain&show_icons=true&border_radius=12&height=165&cache_seconds=3600" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-prayrain.vercel.app/api/top-langs/?username=OctoberPrayRain&layout=compact&border_radius=12&height=165&cache_seconds=1800" />
 </p>
