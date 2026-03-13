@@ -1,24 +1,33 @@
-## Welcome to AmeoInoru's Profile!👋 
-### 欢迎来到十月祈雨的主页🎉
-
 <p align="center">
-<img src="https://count.getloli.com/@:OctoberPrayRain?theme=booru-jaypee" alt=":OctoberPrayRain" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:F9F586&height=250&section=header&text=AmeoInoru&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descSize=22&descAlignY=58" />
+
 </p>
-  
+
 <p align="center">
   <img src="https://github-readme-stats-prayrain.vercel.app/api?username=OctoberPrayRain&show_icons=true&border_radius=12&height=166" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-prayrain.vercel.app/api/top-langs/?username=OctoberPrayRain&layout=compact&border_radius=12&height=166" />
 </p>
 
+
 <!--
 <div align="center"> <img src="https://github.com/OctoberPrayRain/OctoberPrayRain/blob/output/github-contribution-grid-snake-dark.svg"> </div>
 -->
+
+---
 <div align="center"> <img src="https://github.com/OctoberPrayRain/OctoberPrayRain/blob/output/github-contribution-grid-snake.svg"> </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OctoberPrayRain&theme=github-compact)
 
 ---
+
+<p align="center">
+<img src="https://count.getloli.com/@:OctoberPrayRain?theme=booru-jaypee" alt=":OctoberPrayRain" />
+</p>
+
+---
+
 #### 🧩 Languages | 编程语言
 <p align="left"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> 
@@ -96,4 +105,10 @@ C / C++ • Python • Linux • Git • Dev Tools • Algorithms
 
 
 </div>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=000000&center=true&vCenter=true&width=600&lines=「这里万籁俱寂……太安静了。别留下我。」" />
+
+</p>
 
