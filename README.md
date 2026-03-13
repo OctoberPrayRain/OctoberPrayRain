@@ -90,4 +90,10 @@
 
 C / C++ • Python • Linux • Git • Dev Tools • Algorithms  
 
+<div align="center">
+
+*📫 Reach me at: [octoberprayrain@gmail.com](mailto:octoberprayrain@gmail.com)*  
+
+
+</div>
 
