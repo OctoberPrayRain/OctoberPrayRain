@@ -92,7 +92,7 @@ C / C++ • Python • Linux • Git • Dev Tools • Algorithms
 
 <div align="center">
 
-*📫 Reach me at: [octoberprayrain@gmail.com](mailto:your_email@domain.com)*  
+*📫 Reach me at: [octoberprayrain@gmail.com](mailto:octoberprayrain@gmail.com)*  
 
 
 </div>
