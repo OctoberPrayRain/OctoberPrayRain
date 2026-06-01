@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:F9F586&height=250&section=header&text=AmeoInoru&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descSize=22&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:F9F586&height=250&section=header&text=AmeoInoru&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Corner!&descSize=22&descAlignY=58" />
 
 </p>
 
