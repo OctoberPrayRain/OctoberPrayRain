@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-<img src="https://count.getloli.com/@:OctoberPrayRain?theme=booru-jaypee" alt=":OctoberPrayRain" />
+<img src="https://count.getloli.com/@:OctoberPrayRain?theme=gelbooru-h" alt=":OctoberPrayRain" />
 </p>
 
 ---
