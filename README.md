@@ -1,8 +1,10 @@
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:E0C3FC,100:F9F586&height=250&section=header&text=AmeoInoru&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Corner!&descSize=22&descAlignY=58" />
+<img width="1788" height="1005" alt="canvas" src="https://github.com/user-attachments/assets/1be7a14e-f915-4878-9bae-5eecaa28204e" />
 
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats-prayrain.vercel.app/api?username=OctoberPrayRain&show_icons=true&border_radius=12&height=167" />
