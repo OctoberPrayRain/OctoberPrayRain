@@ -61,14 +61,6 @@
 
 ---
 
-##  About Me | 关于我
-
-Btw I use Arch Linux & Hyprland. That's me, and that's all.
-
-### Ask Me About | 可以聊的领域
-
-Arch Linux • Dev Tools
-
 <div align="center">
 
 *📫 Reach me at: [octoberprayrain@gmail.com](mailto:octoberprayrain@gmail.com)*  
